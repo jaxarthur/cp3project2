@@ -32,6 +32,6 @@
 # End of https://www.gitignore.io/api/go,code
 
 # Custom
-project1linux
-project1mac
-project1win.exe
+project2linux
+project2mac
+project2win.exe
